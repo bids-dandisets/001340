@@ -23,8 +23,8 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured: []
 citation: Wilbrecht, Linda (2025) Nucleus accumbens dopamine release reflects Bayesian
-  inference during instrumental learning (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/001340/draft
+  inference during instrumental learning (Version 0.250221.0527) [Data set]. DANDI
+  Archive. https://doi.org/10.48324/dandi.001340/0.250221.0527
 contributor:
 - affiliation: []
   email: wilbrecht@berkeley.edu
@@ -36,12 +36,13 @@ contributor:
 dateCreated: '2025-02-21T04:13:04.459352+00:00'
 datePublished: '2025-02-21T05:27:58.266601+00:00'
 description: Dataset associated with https://www.biorxiv.org/content/10.1101/2023.11.10.566306v2
-id: DANDI:001340/draft
+doi: 10.48324/dandi.001340/0.250221.0527
+id: DANDI:001340/0.250221.0527
 identifier: DANDI:001340
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001340/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001340/0.250221.0527/assets.yaml
 name: Nucleus accumbens dopamine release reflects Bayesian inference during instrumental
   learning
 publishedBy:
@@ -59,5 +60,5 @@ publishedBy:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
-url: https://dandiarchive.org/dandiset/001340/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001340/0.250221.0527
+version: 0.250221.0527
