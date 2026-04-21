@@ -1,9 +1,3 @@
 dandiset.yaml
 dataset_description.json
 derivatives/dataset_description.json
-sub-BSD015/ses-p104/ecephys/sub-BSD015_ses-p104_events.tsv
-sub-BSD015/ses-p104/ecephys/sub-BSD015_ses-p104_events.json
-sub-BSD015/ses-p104/ecephys/sub-BSD015_ses-p104_ecephys.nwb
-sub-BSD015/ses-p105/ecephys/sub-BSD015_ses-p105_events.tsv
-sub-BSD015/ses-p105/ecephys/sub-BSD015_ses-p105_events.json
-sub-BSD015/ses-p105/ecephys/sub-BSD015_ses-p105_ecephys.nwb
