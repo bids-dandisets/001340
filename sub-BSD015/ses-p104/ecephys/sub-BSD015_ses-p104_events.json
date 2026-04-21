@@ -1,0 +1,76 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "animal": {
+        "Description": "mouse in task"
+    },
+    "session": {
+        "Description": "session names as pXX for postnatal date"
+    },
+    "trial": {
+        "Description": "trial number"
+    },
+    "center_in": {
+        "Description": "time (relative to session start) when mouse pokes in center port to start a new trial"
+    },
+    "center_out": {
+        "Description": "time (relative to session start) when mouse leaves the center port"
+    },
+    "side_in": {
+        "Description": "time (relative to session start) when mouse pokes in side port"
+    },
+    "outcome": {
+        "Description": "time (relative to session start) of the outcome"
+    },
+    "zeroth_side_out": {
+        "Description": "time (relative to session start) when mouse triggers first IR beam after outcome"
+    },
+    "first_side_out": {
+        "Description": "time (relative to session start) when mouse leaves the side port for the first time after outcome"
+    },
+    "last_side_out": {
+        "Description": "time (relative to session start) right before mouse pokes in center port to start a new trial"
+    },
+    "action": {
+        "Description": "left or right"
+    },
+    "rewarded": {
+        "Description": "rewarded or not"
+    },
+    "trial_in_block": {
+        "Description": "trial number in block"
+    },
+    "prebswitch_num": {
+        "Description": "number of trials prior to block switch"
+    },
+    "block_num": {
+        "Description": "block number"
+    },
+    "state": {
+        "Description": "true block state"
+    },
+    "last_side_out_side": {
+        "Description": "left or right"
+    },
+    "tmax": {
+        "Description": "max time (relative to session start) in session"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial"
+        }
+    },
+    "trials": {
+        "Description": "experimental trials"
+    }
+}
